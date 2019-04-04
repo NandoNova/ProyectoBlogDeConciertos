@@ -1,6 +1,9 @@
+body p{
+	color:green;
+}
 body{
 	background-color: Black;
-	color: white;
+	color: white !important;
 	font-family: Verdana;
 }
 h1{
@@ -12,4 +15,10 @@ a{
 div{
 	margin-top: 10px;
 	margin-left: 20px;
+}
+body{
+	color:red;
+}
+p{
+	color:blue;
 }
